@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "nodemon app.js"
+    "start": "node app",
+    "dev":"nodemon app"
   },
   "type": "module",
   "author": "samari suarez",
